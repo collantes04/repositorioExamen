@@ -1,5 +1,6 @@
 package evf.javadoc.original;
 //Jose Antonio Sanchez Collantes
+//Aqui hice el cambio en la otra rama, linea 2
 public class Artista {
     String nombreArtista;
     public Artista(String nombreArtista) {
