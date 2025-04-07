@@ -1,6 +1,5 @@
 package evf.javadoc.original;
 //Jose Antonio Sanchez Collantes
-//Este es el segundo cambio
 public class Artista {
     String nombreArtista;
     public Artista(String nombreArtista) {
